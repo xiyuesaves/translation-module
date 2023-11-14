@@ -8,4 +8,6 @@
 
 ## 如何优化翻译
 
-fork本项目，下载 `OBF_en.csv`,`OBF_zh-Hans.csv` 两个文件，使用Excel打开，对照`source`列的原文将译文填写在`target`列中，pr修改，我会更新release中的文件
+fork本项目，使用Excel编辑`OBF_en.csv`文件，对照`source`列的原文将译文填写在`target`列中，pr修改，我会更新release中的文件。
+
+`OBF_zh-Hans.csv`为当前版本的译文，优化翻译时建议参照当前版本的人名地名等内容。
