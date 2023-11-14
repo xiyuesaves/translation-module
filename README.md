@@ -4,7 +4,7 @@
 
 ## 如何使用
 
-下载并解压release.zip将两个文件夹覆盖到游戏目录的OBF文件夹内即可
+下载并解压 [release.zip](https://github.com/xiyuesaves/translation-module/releases/latest) 将两个文件夹覆盖到游戏目录的OBF文件夹内即可
 
 ## 如何优化翻译
 
