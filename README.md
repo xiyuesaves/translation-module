@@ -10,6 +10,7 @@
 
 - 下载本项目，使用 `Excel` 打开 `OBF.csv` 文件
 - 在 `target` 列中填写新的翻译内容，保存表格
+- `OBF_en.csv` 文件为游戏原始文本内容，用于对照翻译
 - 双击 `打包.bat` 文件，生成新的 `OBF.locres.new` 文件
 - 将 `OBF.locres.new` 文件移动到 `OBF/Content/Localization/OBF/zh-Hans` 文件夹下，删除原有的 `OBF.locres` 文件
 - 将 `OBF.locres.new` 文件重命名为 `OBF.locres` 文件
