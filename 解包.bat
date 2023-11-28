@@ -1,0 +1,1 @@
+UnrealLocres.exe export OBF.locres
